@@ -22,7 +22,7 @@ formatter.match({
   "location": "ZooTest.i_am_on_the_zoo_siteweb()"
 });
 formatter.result({
-  "duration": 25085039081,
+  "duration": 67552644140,
   "status": "passed"
 });
 formatter.scenario({
@@ -86,35 +86,35 @@ formatter.match({
   "location": "ZooTest.i_am_click_on(String)"
 });
 formatter.result({
-  "duration": 4725421880,
+  "duration": 5292648564,
   "status": "passed"
 });
 formatter.match({
   "location": "ZooTest.i_populate_the_entri_form()"
 });
 formatter.result({
-  "duration": 7723795139,
+  "duration": 12066924683,
   "status": "passed"
 });
 formatter.match({
   "location": "ZooTest.i_submit_the_contact_form()"
 });
 formatter.result({
-  "duration": 717182778,
+  "duration": 1660185379,
   "status": "passed"
 });
 formatter.match({
   "location": "ZooTest.i_am_check_I_am_on_page_configuretion()"
 });
 formatter.result({
-  "duration": 136937907,
+  "duration": 445215858,
   "status": "passed"
 });
 formatter.match({
   "location": "ZooTest.close_browser()"
 });
 formatter.result({
-  "duration": 3026769401,
+  "duration": 5203641878,
   "status": "passed"
 });
 });
